@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ed06b01-185a-474f-b843-3cd3166c7e9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ProjectId" id="1lKRhQXCL73PFzWtricQ4Hw4d4i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Framework04_Junit" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FrameworkRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Framework03_Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pgk_testrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pgk_testrunner" />
+      <option name="MAIN_CLASS_NAME" value="pgk_testrunner.FrameworkRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea  &quot;-Dcucumber.options=--tags '@empty3' --tags '@empty'&quot;" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FrameworkRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ed06b01-185a-474f-b843-3cd3166c7e9a" name="Default Changelist" comment="" />
+      <created>1590786930687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590786930687</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FrameworkRunner - 2020.05.30 at 17h 33m 33s.xml">
+      <configuration name="FrameworkRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameworkRunner - 2020.05.30 at 17h 35m 52s.xml">
+      <configuration name="FrameworkRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameworkRunner - 2020.05.30 at 17h 44m 17s.xml">
+      <configuration name="FrameworkRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameworkRunner - 2020.05.30 at 17h 45m 06s.xml">
+      <configuration name="FrameworkRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameworkRunner - 2020.05.30 at 17h 46m 23s.xml">
+      <configuration name="FrameworkRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameworkRunner - 2020.05.30 at 17h 46m 37s.xml">
+      <configuration name="FrameworkRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameworkRunner - 2020.05.30 at 17h 47m 40s.xml">
+      <configuration name="FrameworkRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameworkRunner - 2020.05.30 at 17h 51m 48s.xml">
+      <configuration name="FrameworkRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameworkRunner - 2020.05.30 at 17h 53m 24s.xml">
+      <configuration name="FrameworkRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameworkRunner - 2020.05.30 at 17h 53m 48s.xml">
+      <configuration name="FrameworkRunner" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="153" key="FileChooserDialogImpl" timestamp="1619577057522">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="463" y="153" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1619577057522" />
+  </component>
+</project>
